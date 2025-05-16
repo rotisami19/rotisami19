@@ -45,7 +45,6 @@ Je suis un étudiant curieux et motivé, toujours en train d’explorer de nouve
 ## 📫 Me contacter
 
 - 💬 Discord : rotisami19
-- 📧 Email (optionnel) : *à compléter si tu veux être contacté*
 
 ---
 
