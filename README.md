@@ -19,9 +19,6 @@ Je suis un étudiant curieux et motivé, toujours en train d’explorer de nouve
 ## 🚧 Ce que je construis
 
 - 🎮 **Jeu sandbox** inspiré de GTA avec des mécaniques avancées (ragdoll, véhicules, IA)
-- 📱 **App de partage d’écran** entre PC et mobile (avec modes “partage” / “connexion”)
-- 🤖 Interface Unity pour discuter avec une IA (LLM), personnalisable avec des clés API
-- 🔁 Systèmes de sauvegarde dans Unity (ESave, Firebase, PlayFab)
 
 ---
 
@@ -31,9 +28,7 @@ Je suis un étudiant curieux et motivé, toujours en train d’explorer de nouve
 - **Outils** : Unity, Visual Studio, Firebase, PlayFab, Git  
 - **Ce que j’apprends sur Unity** :
   - Contrôleurs de joueur (CharacterController, animations, état)
-  - Motion Warping (Kinemation)
   - UI Toolkit
-  - Sauvegardes cloud & fichiers locaux
   - Systèmes personnalisés (grappin, véhicule, nages, etc.)
 
 ---
