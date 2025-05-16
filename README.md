@@ -1,5 +1,9 @@
 # 👋 Salut, moi c'est Samuel Joël (Sami)
 
+
+![Jeune homme dans la forêt ensoleillée](https://github.com/user-attachments/assets/059c41eb-7e86-41aa-b2b3-2c5dacb633bb)
+
+
 🎓 Étudiant en **BTS Maintenance des Systèmes – Option Systèmes de Production**  
 💻 Développeur autodidacte passionné par la **programmation** et les **jeux vidéo**  
 🎮 J’apprends Unity par moi-même depuis 2021, en créant mes propres projets
@@ -16,7 +20,8 @@ Je suis un étudiant curieux et motivé, toujours en train d’explorer de nouve
 
 ---
 
-## 🚧 Ce que je construis
+## 🚧 Ce que je construis!
+
 
 - 🎮 **Jeu sandbox** inspiré de GTA avec des mécaniques avancées (ragdoll, véhicules, IA)
 
