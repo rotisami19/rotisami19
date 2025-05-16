@@ -1,8 +1,6 @@
 # 👋 Salut, moi c'est Samuel Joël (Sami)
 
-
 ![Jeune homme dans la forêt ensoleillée](https://github.com/user-attachments/assets/059c41eb-7e86-41aa-b2b3-2c5dacb633bb)
-
 
 🎓 Étudiant en **BTS Maintenance des Systèmes – Option Systèmes de Production**  
 💻 Développeur autodidacte passionné par la **programmation** et les **jeux vidéo**  
@@ -12,16 +10,13 @@
 
 ## 🔍 À propos de moi
 
-Je suis un étudiant curieux et motivé, toujours en train d’explorer de nouveaux domaines :  
-- 🧠 Développement de jeux vidéo sur Unity (FPS, TPS, systèmes de mouvement réalistes)  
-- 🔧 Conception de systèmes interactifs et mécaniques complexes  
-- 🌐 Création de projets hybrides entre l’automatisme industriel et le développement logiciel  
-- 🧰 Apprentissage continu : j’aime apprendre par la pratique et expérimenter par moi-même  
+| | |
+|--------------------|-----------------------------|
+ Je suis un étudiant curieux et motivé, toujours en train d’explorer de nouveaux domaines :<br><br>• 🧠 Développement de jeux vidéo sur Unity (FPS, TPS, systèmes de mouvement réalistes)<br>• 🔧 Conception de systèmes interactifs et mécaniques complexes<br>• 🌐 Création de projets hybrides entre l’automatisme industriel et le développement logiciel<br>• 🧰 Apprentissage continu : j’aime apprendre par la pratique et expérimenter par moi-même | <img src="https://github.com/user-attachments/assets/da0784a5-4905-4fa4-8abd-380bd415a647" width="250"/> |
 
 ---
 
 ## 🚧 Ce que je construis!
-
 
 - 🎮 **Jeu sandbox** inspiré de GTA avec des mécaniques avancées (ragdoll, véhicules, IA)
 
