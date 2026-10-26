@@ -1,5 +1,9 @@
 # 👋 Salut, moi c'est Samuel Joël (Sami)
 
+
+
+https://github.com/user-attachments/assets/79d2099b-880c-49d0-aab1-2bab9efd1269
+
 ![Jeune homme dans la forêt ensoleillée](https://github.com/user-attachments/assets/059c41eb-7e86-41aa-b2b3-2c5dacb633bb)
 
 🎓 Étudiant en **BTS Maintenance des Systèmes – Option Systèmes de Production**  
