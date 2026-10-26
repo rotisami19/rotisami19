@@ -17,10 +17,8 @@
 
 ## 🎬 A glimpse of my work
 
-https://github.com/user-attachments/assets/79d2099b-880c-49d0-aab1-2bab9efd1269
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/059c41eb-7e86-41aa-b2b3-2c5dacb633bb" width="85%" alt="Sami in a sunny forest" />
+  <video src="https://github.com/user-attachments/assets/79d2099b-880c-49d0-aab1-2bab9efd1269" controls muted loop width="85%"></video>
 </p>
 
 ## 👨‍💻 About Me
