@@ -18,7 +18,7 @@
 ## 🎬 A glimpse of my work
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/79d2099b-880c-49d0-aab1-2bab9efd1269" controls muted loop width="85%"></video>
+  <video src="https://github.com/user-attachments/assets/2a03fef2-9312-46c8-9937-1c24dbc3d1ef" controls muted loop width="85%"></video>
 </p>
 
 ## 👨‍💻 About Me
