@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Sami&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Unity%20Game%20Developer%20%C2%B7%20Industrial%20Systems%20Maintenance&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Sami&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Unity%20Game%20Developer%20%C2%B7%20Industrial%20Systems%20Maintenance&descSize=18&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
