@@ -79,9 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rotisami19&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rotisami19&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</p>
 
 ## 📫 Contact
 
